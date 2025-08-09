@@ -1,0 +1,16 @@
+# Exclude raw source files and conversion tools
+raw/
+
+# Development files
+.git/
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+{
+  "name": "soundfont-for-samplers",
+  "version": "0.0.1",
+  "description": "MP3 files converted from different SoundFonts that can be used in samplers",
+  "main": "index.js",
+  "author": "K.G.Studio <kgstudio@duck.com>",
+  "license": "MIT",
+  "keywords": [
+    "soundfont",
+    "samples",
+    "music",
+    "midi",
+    "mp3",
+    "instruments",
+    "sampler",
+    "audio",
+    "fluidr3"
+  ],
+  "files": [
+    "FluidR3_GM/",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
