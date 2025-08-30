@@ -2,6 +2,40 @@
 
 MP3 files converted from different SoundFonts that can be used in samplers and music applications.
 
+## Update 2025-08-29 (v0.0.3)
+
+- added instruments:
+```
+Bright Acoustic Piano - bright_acoustic_piano
+Electric Grand Piano - electric_grand_piano
+Marimba - marimba
+Accordion - accordion
+Harmonica - harmonica
+Acoustic Bass - acoustic_bass
+Synth Bass 1 - synth_bass_1
+String Ensemble 2 - string_ensemble_2
+Tuba - tuba
+Soprano Sax - soprano_sax
+Baritone Sax - baritone_sax
+Oboe - oboe
+English Horn - english_horn
+Bassoon - bassoon
+Piccolo - piccolo
+Shakuhachi - shakuhachi
+Pad 4 (choir) - pad_4_choir
+Pad 5 (bowed glass) - pad_5_bowed
+Pad 6 (metallic) - pad_6_metallic
+Pad 7 (halo) - pad_7_halo
+Pad 8 (sweep) - pad_8_sweep
+FX 1 (rain) - fx_1_rain
+FX 2 (soundtrack) - fx_2_soundtrack
+FX 3 (crystal) - fx_3_crystal
+FX 5 (brightness) - fx_5_brightness
+FX 6 (goblins) - fx_6_goblins
+FX 7 (echoes) - fx_7_echoes
+FX 8 (sci-fi) - fx_8_scifi
+```
+
 ## Installation
 
 ```bash
